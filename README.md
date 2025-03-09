@@ -11,14 +11,14 @@ Admin
 Users
 Functional Requirements
 1. Admin
-Can login and logout.
-Can add Account → Hashmap or ArrayList
-Can add operation(deposit, withdraw)→ Hashmap or ArrayList
-Can view balance
-Can delete Account
-Can delete operation
-2. User
-Can view Balance
-Can view personal information
-Can modify personal Information
+Can login and logout.<br>
+Can add Account → Hashmap or ArrayList<br>
+Can add operation(deposit, withdraw)→ Hashmap or ArrayList<br>
+Can view balance<br>
+Can delete Account<br>
+Can delete operation<br>
+2. User<br>
+Can view Balance<br>
+Can view personal information<br>
+Can modify personal Information<br>
 Can list operations (deposit, withdraw)
