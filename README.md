@@ -21,4 +21,8 @@ Can delete operation<br>
 Can view Balance<br>
 Can view personal information<br>
 Can modify personal Information<br>
-Can list operations (deposit, withdraw)
+Can list operations (deposit, withdraw)<br>
+***The project is OOP so we created a class diagram :***
+![The project is OOP so we created a class diagram :](diagggg.png)
+***this is a breif trial for the code :***
+![The trial:](jeuux.png)
