@@ -26,3 +26,8 @@ Can list operations (deposit, withdraw)<br>
 ![The project is OOP so we created a class diagram :](diagggg.png)
 ***this is a breif trial for the code :***
 ![The trial:](jeuux.png)
+To get started, you'll need to clone this repository to your local machine and run the Java file. Follow these steps:
+
+1. **Clone the Repository**: Open a terminal and run the following command to clone the repository:
+   ```bash
+   git clone https://github.com/mouhamedmef/bank-management-system.git
