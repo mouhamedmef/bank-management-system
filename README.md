@@ -1,4 +1,4 @@
-# bank-managing-system
+
 Project : Banking Management System
 
 Objective
