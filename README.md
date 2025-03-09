@@ -1,5 +1,4 @@
-
-Project : Banking Management System
+****Project : Banking Management System****
 
 Objective
 A software product which provides solution for Banking Management System (deposit,
